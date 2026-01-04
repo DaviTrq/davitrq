@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davitrq&label=Profile%20views&color=0e75b6&style=flat" alt="davitrq" /> </p>
 
-- 🟢​ I studied I.T at Colégio COTEMIG, where I built a strong technical foundation in software development, version control, and full-stack fundamentals, with a focus on practical problem-solving [https://davitrq.github.io/portfolio/](https://davitrq.github.io/portfolio/)
-
-- 🌱 I’m currently learning **C#, .NET, JAVA...**
-
 - 🫆 Check my [portfolio](https://davitrq.github.io/portfolio/)
 
 - 📄 Dowload my [Resume](https://drive.google.com/drive/folders/1nvhpql9dzWQjGxjFR8tInQVmJXxGm6pb?usp=drive_link)
